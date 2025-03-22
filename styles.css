@@ -6,7 +6,7 @@ body {
 }
 
 header {
-    background-color: #805AED;
+    background-color: #4B0082; 
     color: white;
     text-align: center;
     padding: 1rem;
@@ -77,4 +77,9 @@ p {
     font-family: Tahoma, sans-serif;
     color: #5A64ED;
 }
+
+dl {
+    font-family: Tahoma, sans-serif;
+    color: #5A64ED;
+}	
 
