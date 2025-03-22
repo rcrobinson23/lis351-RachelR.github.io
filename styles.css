@@ -1,15 +1,16 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: Tahome, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    background-color: #EFDEFB;
 }
 
 header {
-    background-color: #d71a28;
+    background-color: #805AED;
     color: white;
     text-align: center;
     padding: 1rem;
+    font-family: Georgia, serif;
 }
 
 nav ul {
@@ -50,11 +51,15 @@ input, textarea {
 }
 
 button {
-    background: #d71a28;
+    background: #E05AED;
     color: white;
     padding: 10px;
     border: none;
     cursor: pointer;
+}
+
+button:hover {
+	background: #B05AED;
 }
 
 img {
@@ -62,3 +67,14 @@ img {
     max-width: 1200px;
     height: auto;
 }
+
+h1, h2, h3 {
+    font-family: Georgia, serif;
+    color: #5A64ED; /* Blue-purple */
+}
+
+p {
+    font-family: Tahoma, sans-serif;
+    color: #5A64ED;
+}
+
